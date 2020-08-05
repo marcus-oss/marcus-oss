@@ -3,6 +3,7 @@
 
 olá  sou o Marcus Vinicius Faria 
 sou programador junior:computer: 
+
 atualmente estou focado em aprender a linguagem  web estou estudando javascript , hmtl , css.
 
 estou a procura de um emprego voltado na linguagem web.
