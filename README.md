@@ -3,11 +3,13 @@
 
 olá  sou o Marcus Vinicius Faria 
 
-sou programador junior:computer: 
+sou programador Java Full-stack junior:computer: 
 
-atualmente estou focado em aprender a linguagem  web estou estudando javascript , hmtl , css.
+atualmente estou programando com Java, SQL, spring boot.
 
-estou a procura de um emprego voltado na linguagem web.
+tenho 2 anos de experiência profissional como programador  Full-stack Java 🚀
+
+estou a procura de um emprego  como programador java Full-stack Junior. 
 
 entre em contato comigo pelo linkedin https://www.linkedin.com/in/marcus-faria-ab2bb4164/
 
