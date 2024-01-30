@@ -4,8 +4,7 @@
 sou programador Java Full-stack junior
 
  ## entre em contato comigo pelo Linkedin
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/marcus-faria-ab2bb4164/
-)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-faria-ab2bb4164/)
 
 
 ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus-oss&show_icons=true&theme=dracula)
