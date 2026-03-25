@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">olá  sou o Marcus Vinicius Faria 👋🏻<br><br>sou programador Java Full-stack junior , tenho 2 anos e 8 meses de experiencia.</p>
+<p align="left">olá  sou o Marcus Vinicius Faria 👋🏻<br><br>sou programador  Full-stack junior , com 2 anos e 8 meses de experiencia.</p>
 
 ###
 
