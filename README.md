@@ -1,6 +1,10 @@
 <h2 align="left">About me</h2>
 
-<p align="left">olá  sou o Marcus Vinicius Faria 👋🏻<br><br>sou programador  Full-Stack junior , com 2 anos e 8 meses de experiencia, bastante experiência em projetos legados, corrigindo bugs e criando landing page</p>
+<p align="left">olá  sou o Marcus Vinicius Faria 👋🏻<br><br>sou programador  Full-Stack junior , com 2 anos e 8 meses de experiencia, bastante experiência em projetos legados, corrigindo bugs e criando landing page. 
+
+formado em análise e desenvolvimento de sistemas
+</p> 
+
 
 <h2 align="right">Techs</h2>
 
